@@ -53,22 +53,22 @@
             "name": "Portfolio",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
+            "url": "",
+            "url_dark": ""
         },
         {
             "name": "Testimonials",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
+            "url": "",
+            "url_dark": ""
         },
         {
             "name": "Contact us",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/contact.html",
-            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/contact.html"
+            "url": "",
+            "url_dark": ""
         },
         {
             "name": "Privacy Policy",
