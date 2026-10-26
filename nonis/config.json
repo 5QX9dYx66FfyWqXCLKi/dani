@@ -16,27 +16,27 @@
         "status": false,
         "sliders": [
             {
-                "title": "Welcome",
+                "title": "Welcome to WebDroid",
                 "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
-                "image": "",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
                 "background_color": "ffffff"
             },
             {
                 "title": "Navigation menu",
-                "message": "Integrated with remote json so you can manage the navigation drawer item and url dynamically",
-                "image": "",
+                "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
                 "background_color": "ffffff"
             },
             {
                 "title": "Push notification",
                 "message": "Integrated with FCM & OneSignal push notification to notify your users",
-                "image": "",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
                 "background_color": "ffffff"
             },
             {
                 "title": "Multiple Ad Neworks",
                 "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
-                "image": "",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
                 "background_color": "ffffff"
             }
         ]
@@ -46,29 +46,29 @@
             "name": "Home",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-            "url": "https://tokoku.siapdaftar.my.id/noni/index.php",
-            "url_dark": "https://tokoku.siapdaftar.my.id/noni/index.php"
+            "url": "https://bersamalapak.com/nonis/",
+            "url_dark": "https://bersamalapak.com/nonis/"
         },
         {
             "name": "Portfolio",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-            "url": "",
-            "url_dark": ""
+            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/portfolio.html",
+            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
         },
         {
             "name": "Testimonials",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-            "url": "",
-            "url_dark": ""
+            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/testimonials.html",
+            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
         },
         {
             "name": "Contact us",
             "type": "url",
             "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-            "url": "",
-            "url_dark": ""
+            "url": "hhttps://solodroidev.github.io/webdroid/pages/light/contact.html",
+            "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/contact.html"
         },
         {
             "name": "Privacy Policy",
@@ -86,15 +86,15 @@
         "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
         "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
         "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-        "ad_manager_banner_unit_id": "/xxxx/example/banner",
-        "ad_manager_interstitial_unit_id": "/xxxx/example/interstitial",
-        "ad_manager_native_unit_id": "/xxxx/example/native",
-        "ad_manager_app_open_ad_unit_id": "/xxxx/example/app-open",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
         "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
         "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
         "fan_native_unit_id": "YOUR_PLACEMENT_ID",
         "startapp_app_id": "0",
-        "unity_game_id": "xxxxx",
+        "unity_game_id": "4089993",
         "unity_banner_placement_id": "banner",
         "unity_interstitial_placement_id": "video",
         "applovin_banner_ad_unit_id": "0",
@@ -104,7 +104,7 @@
         "applovin_banner_zone_id": "0",
         "applovin_banner_mrec_zone_id": "0",
         "applovin_interstitial_zone_id": "0",
-        "ironsource_app_key": "xxxxx",
+        "ironsource_app_key": "85460dcd",
         "ironsource_banner_placement_name": "DefaultBanner",
         "ironsource_interstitial_placement_name": "DefaultInterstitial",
         "interstitial_ad_interval_on_drawer_menu": 3,
@@ -112,9 +112,9 @@
         "native_ad_style_drawer_menu": "medium",
         "native_ad_style_exit_dialog": "medium",
         "placement": {
-            "banner_home": false,
-            "interstitial_drawer_menu": false,
-            "interstitial_web_page_link": false,
+            "banner_home": true,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
             "native_drawer_menu": true,
             "native_exit_dialog": true,
             "app_open_ad_on_start": true,
